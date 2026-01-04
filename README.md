@@ -84,7 +84,7 @@ llm-financial-evaluation/
 
 ### Local Setup
 ```bash
-git clone https://github.com/your-username/llm-financial-evaluation.git
+git clone https://github.com/hq969/llm-financial-evaluation.git
 cd llm-financial-evaluation
 pip install -r requirements.txt
 ````
@@ -167,11 +167,6 @@ cd package && zip -r llm_eval_lambda.zip .
 * Real-time monitoring dashboards
 * SOC-2 / ISO-27001 aligned logging
 
----
-
-## Resume-Ready Summary
-
-Built an enterprise-grade LLM evaluation framework for financial text, measuring factual accuracy, hallucination risk, and regulatory compliance using Python, LangChain, and SEC filings, with Docker and AWS Lambda deployment support.
 
 ---
 
@@ -179,16 +174,3 @@ Built an enterprise-grade LLM evaluation framework for financial text, measuring
 
 MIT License
 
-```
-
----
-
-### Next (Optional but Strategic)
-I can:
-- Generate a **GitHub Actions CI pipeline**
-- Add **Streamlit executive dashboard**
-- Prepare **bank / Big-4 interview explanation**
-- Convert this into a **whitepaper-style project**
-
-Say the word and I’ll proceed.
-```
