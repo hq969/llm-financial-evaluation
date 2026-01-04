@@ -1,0 +1,3 @@
+company,filing_text,ground_truth_summary
+AAPL,Apple reported revenue of 383.3 billion dollars in FY2023 with strong iPhone sales.,Apple revenue was 383.3 billion dollars in FY2023 mainly from iPhone sales.
+MSFT,Microsoft reported revenue of 211.9 billion dollars in FY2023 driven by cloud growth.,Microsoft revenue reached 211.9 billion dollars in FY2023 due to cloud services.
