@@ -1,0 +1,7 @@
+pandas
+numpy
+openai
+langchain
+langchain-community
+textstat
+scikit-learn
